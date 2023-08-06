@@ -1,0 +1,19 @@
+﻿Сборка начата 22.03.2023 15:26:47.
+Уровень детализации журнала: Normal.     1>Проект "F:\лабы\МП\3 лаба\MP_Lab3\MP_Lab3\MP_Lab3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\MP_Lab3.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         MP_Lab3.vcxproj -> F:\лабы\МП\3 лаба\MP_Lab3\x64\Debug\MP_Lab3.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\MP_Lab3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\MP_Lab3.tlog\MP_Lab3.lastbuildstate".
+     1>Сборка проекта "F:\лабы\МП\3 лаба\MP_Lab3\MP_Lab3\MP_Lab3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.16

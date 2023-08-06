@@ -1,0 +1,19 @@
+﻿Сборка начата 12.04.2023 2:54:41.
+Уровень детализации журнала: Normal.     1>Проект "F:\лабы\МП\4 лаба\MP_Lab4\LCS\LCS.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\LCS.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         LCS.vcxproj -> F:\лабы\МП\4 лаба\MP_Lab4\x64\Debug\LCS.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\LCS.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\LCS.tlog\LCS.lastbuildstate".
+     1>Сборка проекта "F:\лабы\МП\4 лаба\MP_Lab4\LCS\LCS.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.16
